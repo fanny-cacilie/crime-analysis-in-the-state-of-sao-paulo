@@ -54,4 +54,4 @@ To fix a bug or enhance an existing module, follow these steps:
 - Create a Pull Request
 
 
-Feel free to get in touch! :email:
+:email: Feel free to get in touch! 
